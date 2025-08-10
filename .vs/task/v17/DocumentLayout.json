@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TUF\\Desktop\\task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B69679A-1F6C-4FB5-B3CA-FEB78005E908}|task\\task.csproj|c:\\users\\tuf\\desktop\\task\\task\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B69679A-1F6C-4FB5-B3CA-FEB78005E908}|task\\task.csproj|solutionrelative:task\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B69679A-1F6C-4FB5-B3CA-FEB78005E908}|task\\task.csproj|c:\\users\\tuf\\desktop\\task\\task\\models\\meeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B69679A-1F6C-4FB5-B3CA-FEB78005E908}|task\\task.csproj|solutionrelative:task\\models\\meeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B69679A-1F6C-4FB5-B3CA-FEB78005E908}|task\\task.csproj|c:\\users\\tuf\\desktop\\task\\task\\dtos\\proposedmeetingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B69679A-1F6C-4FB5-B3CA-FEB78005E908}|task\\task.csproj|solutionrelative:task\\dtos\\proposedmeetingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B69679A-1F6C-4FB5-B3CA-FEB78005E908}|task\\task.csproj|c:\\users\\tuf\\desktop\\task\\task\\services\\slotfinderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B69679A-1F6C-4FB5-B3CA-FEB78005E908}|task\\task.csproj|solutionrelative:task\\services\\slotfinderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B69679A-1F6C-4FB5-B3CA-FEB78005E908}|task\\task.csproj|c:\\users\\tuf\\desktop\\task\\task\\dtos\\createmeetingrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B69679A-1F6C-4FB5-B3CA-FEB78005E908}|task\\task.csproj|solutionrelative:task\\dtos\\createmeetingrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B69679A-1F6C-4FB5-B3CA-FEB78005E908}|task\\task.csproj|c:\\users\\tuf\\desktop\\task\\task\\controllers\\meetingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B69679A-1F6C-4FB5-B3CA-FEB78005E908}|task\\task.csproj|solutionrelative:task\\controllers\\meetingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B69679A-1F6C-4FB5-B3CA-FEB78005E908}|task\\task.csproj|c:\\users\\tuf\\desktop\\task\\task\\data storages\\inmemorymeetingdatastorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B69679A-1F6C-4FB5-B3CA-FEB78005E908}|task\\task.csproj|solutionrelative:task\\data storages\\inmemorymeetingdatastorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD87364-26AC-4992-8FDF-412C20FF3077}|FindEarliestSlotTests\\FindEarliestSlotTests.csproj|c:\\users\\tuf\\desktop\\task\\findearliestslottests\\findearliestslottests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FD87364-26AC-4992-8FDF-412C20FF3077}|FindEarliestSlotTests\\FindEarliestSlotTests.csproj|solutionrelative:findearliestslottests\\findearliestslottests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B69679A-1F6C-4FB5-B3CA-FEB78005E908}|task\\task.csproj|c:\\users\\tuf\\desktop\\task\\task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B69679A-1F6C-4FB5-B3CA-FEB78005E908}|task\\task.csproj|solutionrelative:task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B69679A-1F6C-4FB5-B3CA-FEB78005E908}|task\\task.csproj|c:\\users\\tuf\\desktop\\task\\task\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B69679A-1F6C-4FB5-B3CA-FEB78005E908}|task\\task.csproj|solutionrelative:task\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B69679A-1F6C-4FB5-B3CA-FEB78005E908}|task\\task.csproj|c:\\users\\tuf\\desktop\\task\\task\\dtos\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B69679A-1F6C-4FB5-B3CA-FEB78005E908}|task\\task.csproj|solutionrelative:task\\dtos\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B69679A-1F6C-4FB5-B3CA-FEB78005E908}|task\\task.csproj|c:\\users\\tuf\\desktop\\task\\task\\data storages\\imeetingdatastorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B69679A-1F6C-4FB5-B3CA-FEB78005E908}|task\\task.csproj|solutionrelative:task\\data storages\\imeetingdatastorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B69679A-1F6C-4FB5-B3CA-FEB78005E908}|task\\task.csproj|c:\\users\\tuf\\desktop\\task\\task\\services\\islotfinderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B69679A-1F6C-4FB5-B3CA-FEB78005E908}|task\\task.csproj|solutionrelative:task\\services\\islotfinderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SlotFinderService.cs",
+              "DocumentMoniker": "C:\\Users\\TUF\\Desktop\\task\\task\\Services\\SlotFinderService.cs",
+              "RelativeDocumentMoniker": "task\\Services\\SlotFinderService.cs",
+              "ToolTip": "C:\\Users\\TUF\\Desktop\\task\\task\\Services\\SlotFinderService.cs",
+              "RelativeToolTip": "task\\Services\\SlotFinderService.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAQwDgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T15:46:25.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FindEarliestSlotTests.cs",
+              "DocumentMoniker": "C:\\Users\\TUF\\Desktop\\task\\FindEarliestSlotTests\\FindEarliestSlotTests.cs",
+              "RelativeDocumentMoniker": "FindEarliestSlotTests\\FindEarliestSlotTests.cs",
+              "ToolTip": "C:\\Users\\TUF\\Desktop\\task\\FindEarliestSlotTests\\FindEarliestSlotTests.cs",
+              "RelativeToolTip": "FindEarliestSlotTests\\FindEarliestSlotTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T21:52:40.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InMemoryMeetingDataStorage.cs",
+              "DocumentMoniker": "C:\\Users\\TUF\\Desktop\\task\\task\\Data Storages\\InMemoryMeetingDataStorage.cs",
+              "RelativeDocumentMoniker": "task\\Data Storages\\InMemoryMeetingDataStorage.cs",
+              "ToolTip": "C:\\Users\\TUF\\Desktop\\task\\task\\Data Storages\\InMemoryMeetingDataStorage.cs",
+              "RelativeToolTip": "task\\Data Storages\\InMemoryMeetingDataStorage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T15:23:30.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateMeetingRequest.cs",
+              "DocumentMoniker": "C:\\Users\\TUF\\Desktop\\task\\task\\DTOs\\CreateMeetingRequest.cs",
+              "RelativeDocumentMoniker": "task\\DTOs\\CreateMeetingRequest.cs",
+              "ToolTip": "C:\\Users\\TUF\\Desktop\\task\\task\\DTOs\\CreateMeetingRequest.cs",
+              "RelativeToolTip": "task\\DTOs\\CreateMeetingRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T15:20:45.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Meeting.cs",
+              "DocumentMoniker": "C:\\Users\\TUF\\Desktop\\task\\task\\Models\\Meeting.cs",
+              "RelativeDocumentMoniker": "task\\Models\\Meeting.cs",
+              "ToolTip": "C:\\Users\\TUF\\Desktop\\task\\task\\Models\\Meeting.cs",
+              "RelativeToolTip": "task\\Models\\Meeting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T14:35:04.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProposedMeetingDto.cs",
+              "DocumentMoniker": "C:\\Users\\TUF\\Desktop\\task\\task\\DTOs\\ProposedMeetingDto.cs",
+              "RelativeDocumentMoniker": "task\\DTOs\\ProposedMeetingDto.cs",
+              "ToolTip": "C:\\Users\\TUF\\Desktop\\task\\task\\DTOs\\ProposedMeetingDto.cs",
+              "RelativeToolTip": "task\\DTOs\\ProposedMeetingDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T15:22:17.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\TUF\\Desktop\\task\\task\\Models\\User.cs",
+              "RelativeDocumentMoniker": "task\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\TUF\\Desktop\\task\\task\\Models\\User.cs",
+              "RelativeToolTip": "task\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T14:34:56.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MeetingsController.cs",
+              "DocumentMoniker": "C:\\Users\\TUF\\Desktop\\task\\task\\Controllers\\MeetingsController.cs",
+              "RelativeDocumentMoniker": "task\\Controllers\\MeetingsController.cs",
+              "ToolTip": "C:\\Users\\TUF\\Desktop\\task\\task\\Controllers\\MeetingsController.cs",
+              "RelativeToolTip": "task\\Controllers\\MeetingsController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T16:25:12.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TUF\\Desktop\\task\\task\\Program.cs",
+              "RelativeDocumentMoniker": "task\\Program.cs",
+              "ToolTip": "C:\\Users\\TUF\\Desktop\\task\\task\\Program.cs",
+              "RelativeToolTip": "task\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T13:17:01.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\TUF\\Desktop\\task\\task\\DTOs\\CreateUserDto.cs",
+              "RelativeDocumentMoniker": "task\\DTOs\\CreateUserDto.cs",
+              "ToolTip": "C:\\Users\\TUF\\Desktop\\task\\task\\DTOs\\CreateUserDto.cs",
+              "RelativeToolTip": "task\\DTOs\\CreateUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T15:19:56.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\TUF\\Desktop\\task\\task\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "task\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\TUF\\Desktop\\task\\task\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "task\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwCYAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T15:50:43.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IMeetingDataStorage.cs",
+              "DocumentMoniker": "C:\\Users\\TUF\\Desktop\\task\\task\\Data Storages\\IMeetingDataStorage.cs",
+              "RelativeDocumentMoniker": "task\\Data Storages\\IMeetingDataStorage.cs",
+              "ToolTip": "C:\\Users\\TUF\\Desktop\\task\\task\\Data Storages\\IMeetingDataStorage.cs",
+              "RelativeToolTip": "task\\Data Storages\\IMeetingDataStorage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T15:26:57.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ISlotFinderService.cs",
+              "DocumentMoniker": "C:\\Users\\TUF\\Desktop\\task\\task\\Services\\ISlotFinderService.cs",
+              "RelativeDocumentMoniker": "task\\Services\\ISlotFinderService.cs",
+              "ToolTip": "C:\\Users\\TUF\\Desktop\\task\\task\\Services\\ISlotFinderService.cs",
+              "RelativeToolTip": "task\\Services\\ISlotFinderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T15:44:25.609Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
